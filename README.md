@@ -15,7 +15,7 @@ You can check out my project here. I would like to get some feedback.<br>
 5. My blog post<br>
 This is my blog post link <a href="https://unoszte0291.medium.com/starbucks-the-better-offers-for-you-from-mobile-app-2a3e840f2a67">here</a>.<br>
 6. Results discussion<br>
-The main findings of the code can be found at the post available<a href="https://unoszte0291.medium.com/starbucks-the-better-offers-for-you-from-mobile-app-2a3e840f2a67">here</a>. Github is available at <a href="https://github.com/unoszte0291/starbucks_capstone_challenge.git">here</a>.
+The main findings of the code can be found at the post available<a href="https://unoszte0291.medium.com/starbucks-the-better-offers-for-you-from-mobile-app-2a3e840f2a67">here</a>.<br> Github is available at <a href="https://github.com/unoszte0291/starbucks_capstone_challenge.git">here</a>.<br>
 7. Licensing, Authors, Acknowledgements<br>
 Must give credit to Udacity and Starbucks for the data as part of final capstone project of Udacity Data Science Nanodegree.<br>
 <br>
