@@ -23,4 +23,4 @@ Must give credit to Udacity and Starbucks for the data as part of final capstone
 <br>
 <br>
 I had a great experience by this project for learning data science.<br>
-I appreciate Udacity and Starbuck for the project. Thank you very much.<br>
+I appreciate Udacity and Starbucks for the project. Thank you very much.<br>
