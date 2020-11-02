@@ -5,9 +5,14 @@ Anaconda, numpy, pandas, matplotlib, seaborn, sklearn.linear_model, sklearn.mode
 <br>
 2. Project Motivation<br>
 Through this project, I will try to find hints that can offer better offers to customers by analyzing the data of customers using Starbucks mobile apps.<br>
+
 <br>
 3. File Descriptions<br>
-The data used is provided by the <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025">Udacity Data Scientist nanodegree</a>project.<br>
+The data used is provided by the <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025">Udacity Data Scientist nanodegree</a> project.<br>
+portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+profile.json - demographic data for each customer
+transcript.json - records for transactions, offers received, offers viewed, and offers completed <br>
+transcript_fin.csv - This is a collection of the data needed for analysis from three files above.
  <br>
 4. How to Interact with your project<br>
 You can check out my project here. I would like to get some feedback.<br>
