@@ -13,7 +13,7 @@ portfolio.json - containing offer ids and meta data about each offer (durati
 profile.json - demographic data for each customer<br>
 transcript.json - records for transactions, offers received, offers viewed, and offers completed. <br>
 transcript_fin.csv - This is a collection of the data needed for analysis from three files above.<br>
-Starbucks_Capstone_notebook.ipynb - This is a file which used to analyze the data. In this file, I am creating a graph of data, cluster analysis, principal component analysis, and recommendation engine.
+Starbucks_Capstone_notebook.ipynb - This is a file which used to analyze the data. In this file, I am creating a graph of data, cluster analysis, principal component analysis, and recommendation engine. <br>
  <br>
 4. How to Interact with your project<br>
 You can check out my project here. I would like to get some feedback.<br>
