@@ -29,8 +29,9 @@ Starbucks_Capstone_notebook.ipynb - This is a file which used to analyze the dat
 4. Improvement<br>
 The main findings of the code can be found at the post available <a href="https://unoszte0291.medium.com/starbucks-the-better-offers-for-you-from-mobile-app-2a3e840f2a67">here</a>. Github is available at <a href="https://github.com/unoszte0291/starbucks_capstone_challenge.git">here</a>.<br>
 <br>
-<b>5. Licensing</b><br>
-Must give credit to Udacity and Starbucks for the data as part of final capstone project of Udacity Data Science Nanodegree.<br>
+<b>5. Credits</b><br>
+・Udacity for providing such a complete <a href=https://www.udacity.com/course/data-scientist-nanodegree--nd025>Data Science Nanodegree Program</a>
+・Starbucks for providing the datasets<br>
 <br>
 <b> 6. Acknowledgements</b><br>
 I had a great experience by this project for learning data science.<br>
