@@ -15,7 +15,6 @@ Anaconda, numpy, pandas, matplotlib, seaborn, math, json, sklearn.cluster, sklea
 This project will analyze the data used in Starbucks mobile apps. By analyzing the usage record of offers provided to customers, we can understand the characteristics of customers and understand what kind of offers are actually used from cluster analysis and principal component analysis. By doing so, I think it will be possible to offer better offers to each and every customer. I would like to take on the challenge of data analysis that will lead customers to spend more inspiring time with Starbucks products.<br>
 <br>
 <b>3. File Descriptions</b><br>
-The data used is provided by the <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025">Udacity Data Scientist nanodegree</a> project.<br>
 portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)<br>
 profile.json - demographic data for each customer<br>
 transcript.json - records for transactions, offers received, offers viewed, and offers completed. <br>
@@ -30,7 +29,7 @@ Starbucks_Capstone_notebook.ipynb - This is a file which used to analyze the dat
 The main findings of the code can be found at the post available <a href="https://unoszte0291.medium.com/starbucks-the-better-offers-for-you-from-mobile-app-2a3e840f2a67">here</a>. Github is available at <a href="https://github.com/unoszte0291/starbucks_capstone_challenge.git">here</a>.<br>
 <br>
 <b>5. Credits</b><br>
-・Udacity for providing such a complete <a href=https://www.udacity.com/course/data-scientist-nanodegree--nd025>Data Science Nanodegree Program</a>
+・Udacity for providing such a complete <a href=https://www.udacity.com/course/data-scientist-nanodegree--nd025>Data Scientist Nanodegree Program</a><br>
 ・Starbucks for providing the datasets<br>
 <br>
 <b> 6. Acknowledgements</b><br>
