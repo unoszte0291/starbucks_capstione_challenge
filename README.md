@@ -45,6 +45,8 @@ Starbucks_Capstone_notebook.ipynb - This is a file which used to analyze the dat
 <img src="https://github.com/unoszte0291/starbucks_capstone_challenge/blob/main/images/top10_user.JPG?raw=true" alt="" style="max-width:50%;">
 <br>  
 <img src="https://github.com/unoszte0291/starbucks_capstone_challenge/blob/main/images/top3_offers.JPG?raw=true" alt="" style="max-width:50%;">
+<br>
+Extract customers with similar offer usage patterns and output recommended offers that may be used.
 </p>
 <br>
 <a id="5"><h2>5. Credits</h2></a><br>
