@@ -1,6 +1,6 @@
 # Starbucks capstione challenge
 <br>
-1. Installations<br>
+<b>1. Installations</b><br>
 Anaconda, numpy, pandas, matplotlib, seaborn, math, json, sklearn.cluster, sklearn.preprocessing, sklearn.decomposition, pylab, rcParams<br>
 <br>
 2. Project Motivation<br>
