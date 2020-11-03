@@ -41,9 +41,13 @@ transcript_fin.csv - This is a collection of the data needed for analysis from t
 Starbucks_Capstone_notebook.ipynb - This is a file which used to analyze the data. In this file, I am creating a graph of data, cluster analysis, principal component analysis, and recommendation engine. <br>
 <br>
 <a id="4"><h2>4. Results</h2></a><br>
+<div>
 <img src="/unoszte0291/starbucks_capstone_challenge/raw/master/images/top10_user.JPG" alt="" style="max-width:50%;">
-<br>
+</div>
+<br>  
+<div>
 <img src="/unoszte0291/starbucks_capstone_challenge/raw/master/images/top3_offers.JPG" alt="" style="max-width:50%;">
+</div>
 <br>
 <a id="5"><h2>5. Credits</h2></a><br>
 ・Udacity for providing such a complete <a href=https://www.udacity.com/course/data-scientist-nanodegree--nd025>Data Scientist Nanodegree Program</a><br>
