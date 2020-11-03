@@ -19,7 +19,7 @@
     <br>
   </li>
   <li>
-    <a href="#5">Licensing</a>
+    <a href="#5">Credits</a>
     <br>
   </li>
   <li>
