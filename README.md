@@ -42,9 +42,9 @@ Starbucks_Capstone_notebook.ipynb - This is a file which used to analyze the dat
 <br>
 <a id="4"><h2>4. Results</h2></a><br>
 <p>
-<img src="/unoszte0291/starbucks_capstone_challenge/raw/master/images/top10_user.JPG" alt="" style="max-width:50%;">
+<img src="https://github.com/unoszte0291/starbucks_capstone_challenge/blob/main/images/top10_user.JPG?raw=true" alt="" style="max-width:50%;">
 <br>  
-<img src="/unoszte0291/starbucks_capstone_challenge/raw/master/images/top3_offers.JPG" alt="" style="max-width:50%;">
+<img src="https://github.com/unoszte0291/starbucks_capstone_challenge/blob/main/images/top3_offers.JPG?raw=true" alt="" style="max-width:50%;">
 </p>
 <br>
 <a id="5"><h2>5. Credits</h2></a><br>
