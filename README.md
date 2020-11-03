@@ -8,7 +8,7 @@ Table of Contents
 5. Licensing
 6. Acknowledgements
 <br>
-<b>1. Installations</b><br>
+<h2><b>1. Installations</b></h2><br>
 Anaconda, numpy, pandas, matplotlib, seaborn, math, json, sklearn.cluster, sklearn.preprocessing, sklearn.decomposition, pylab, rcParams<br>
 <br>
 <b>2. Project Motivation</b><br>
@@ -26,7 +26,7 @@ Starbucks_Capstone_notebook.ipynb - This is a file which used to analyze the dat
 2. The following can be understood by cluster analysis and principal component analysis.<br>
 3. Recommendation Engine result.<br>
 4. Improvement<br>
-The main findings of the code can be found at the post available <a href="https://unoszte0291.medium.com/starbucks-the-better-offers-for-you-from-mobile-app-2a3e840f2a67">here</a>. Github is available at <a href="https://github.com/unoszte0291/starbucks_capstone_challenge.git">here</a>.<br>
+<br>
 <br>
 <b>5. Credits</b><br>
 ・Udacity for providing such a complete <a href=https://www.udacity.com/course/data-scientist-nanodegree--nd025>Data Scientist Nanodegree Program</a><br>
