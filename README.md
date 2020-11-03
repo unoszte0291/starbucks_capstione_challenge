@@ -3,34 +3,34 @@
 <h2>Table of Contents</h2>
 <ol>
   <li>
-    <a href="#1">1. Installations</a>
+    <a href="#1">Installations</a>
     <br>
   </li>
   <li>
-    <a href="#2">2. Project Motivation</a>
+    <a href="#2">Project Motivation</a>
     <br>
   </li>
   <li>
-    <a href="#3">3. File Descriptions</a>
+    <a href="#3">File Descriptions</a>
     <br>
   </li>
   <li>
-    <a href="#4">4. Results discussion</a>
+    <a href="#4">Results discussion</a>
     <br>
   </li>
   <li>
-    <a href="#5">5. Licensing</a>
+    <a href="#5">Licensing</a>
     <br>
   </li>
   <li>
-    <a href="#6">6. Acknowledgements</a>
+    <a href="#6">Acknowledgements</a>
     <br>
   </li>
 <br>
 <h2>1. Installations</h2><br>
 Anaconda, numpy, pandas, matplotlib, seaborn, math, json, sklearn.cluster, sklearn.preprocessing, sklearn.decomposition, pylab, rcParams<br>
 <br>
-<h2>2. Project Motivation</b><br>
+<h2>2. Project Motivation</h2><br>
 This project will analyze the data used in Starbucks mobile apps. By analyzing the usage record of offers provided to customers, we can understand the characteristics of customers and understand what kind of offers are actually used from cluster analysis and principal component analysis. By doing so, I think it will be possible to offer better offers to each and every customer. I would like to take on the challenge of data analysis that will lead customers to spend more inspiring time with Starbucks products.<br>
 <br>
 <h2>3. File Descriptions</h2><br>
