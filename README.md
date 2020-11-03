@@ -27,7 +27,7 @@
     <br>
   </li>
 <br>
-<h2>1. Installations</h2><br>
+<a id="1"><h2>1. Installations</h2></a><br>
 Anaconda, numpy, pandas, matplotlib, seaborn, math, json, sklearn.cluster, sklearn.preprocessing, sklearn.decomposition, pylab, rcParams<br>
 <br>
 <h2>2. Project Motivation</h2><br>
