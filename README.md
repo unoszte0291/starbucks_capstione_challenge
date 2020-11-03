@@ -12,8 +12,7 @@ Table of Contents
 Anaconda, numpy, pandas, matplotlib, seaborn, math, json, sklearn.cluster, sklearn.preprocessing, sklearn.decomposition, pylab, rcParams<br>
 <br>
 <b>2. Project Motivation</b><br>
-Through this project, I will try to find hints that can offer better offers to customers by analyzing the data of customers using Starbucks mobile apps.<br>
-By understanding the usage of offers offered to mobile apps, you can find tips for making better offers.<br>
+This project will analyze the data used in Starbucks mobile apps. By analyzing the usage record of offers provided to customers, we can understand the characteristics of customers and understand what kind of offers are actually used from cluster analysis and principal component analysis. By doing so, I think it will be possible to offer better offers to each and every customer. I would like to take on the challenge of data analysis that will lead customers to spend more inspiring time with Starbucks products.<br>
 <br>
 <b>3. File Descriptions</b><br>
 The data used is provided by the <a href="https://www.udacity.com/course/data-scientist-nanodegree--nd025">Udacity Data Scientist nanodegree</a> project.<br>
